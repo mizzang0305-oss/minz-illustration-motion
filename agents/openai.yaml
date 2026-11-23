@@ -1,0 +1,14 @@
+interface:
+  display_name: MINZ 일러스트 모션
+  short_description: 정지 일러스트를 11가지 연출로 살리는 세로 영상 제작
+  default_prompt: $minz-illustration-motion으로 제공한 그림과 장면 순서에 맞춰 세로 MP4와 장면별 연출 목록을
+    제작해줘.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

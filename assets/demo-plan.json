@@ -1,0 +1,104 @@
+{
+  "mode": "demo",
+  "scenes": [
+    {
+      "id": "scene-01",
+      "image": "art/scene-01.png",
+      "effect": "punch-shake",
+      "frames": 120,
+      "intensity": 0.5,
+      "label": "줌 펀치 + 흔들림",
+      "caption": "반응 순간 빠르게 당기고 바로 안정시킵니다."
+    },
+    {
+      "id": "scene-02",
+      "image": "art/scene-02.png",
+      "effect": "parallax",
+      "frames": 120,
+      "intensity": 0.5,
+      "label": "2.5D 패럴랙스",
+      "caption": "가까운 레이어는 크게, 먼 산은 작게 이동합니다."
+    },
+    {
+      "id": "scene-03",
+      "image": "art/scene-03.png",
+      "effect": "orbit",
+      "frames": 180,
+      "intensity": 0.5,
+      "label": "3D 카메라 궤도",
+      "caption": "인물 중심을 유지하며 시점을 작게 이동합니다."
+    },
+    {
+      "id": "scene-04",
+      "image": "art/scene-04.png",
+      "effect": "dolly-zoom",
+      "frames": 120,
+      "intensity": 0.5,
+      "label": "돌리 줌",
+      "caption": "얼굴 크기를 유지하며 배경 원근을 바꿉니다."
+    },
+    {
+      "id": "scene-05",
+      "image": "art/scene-05.png",
+      "effect": "puppet",
+      "frames": 120,
+      "intensity": 0.5,
+      "label": "캐릭터 퍼펫",
+      "caption": "고개와 어깨, 옷자락이 시차를 두고 움직입니다."
+    },
+    {
+      "id": "scene-06",
+      "image": "art/scene-06.png",
+      "effect": "entrance",
+      "frames": 180,
+      "intensity": 0.5,
+      "label": "등장 연출",
+      "caption": "발이 땅에 닿는 순간 흙먼지가 올라옵니다."
+    },
+    {
+      "id": "scene-07",
+      "image": "art/scene-07.png",
+      "effect": "rack-focus",
+      "frames": 120,
+      "intensity": 0.5,
+      "label": "랙 포커스",
+      "caption": "뒤쪽 길에서 앞 인물로 초점이 옮겨갑니다."
+    },
+    {
+      "id": "scene-08",
+      "image": "art/scene-08.png",
+      "effect": "lamp-light",
+      "frames": 120,
+      "intensity": 0.5,
+      "label": "빛 연출",
+      "caption": "등잔 밝기에 맞춰 얼굴과 벽의 빛이 변합니다."
+    },
+    {
+      "id": "scene-09",
+      "image": "art/scene-09.png",
+      "effect": "weather",
+      "frames": 180,
+      "intensity": 0.5,
+      "label": "날씨 레이어",
+      "caption": "눈송이의 크기와 속도 차이로 거리감을 만듭니다."
+    },
+    {
+      "id": "scene-10",
+      "image": "art/scene-10.png",
+      "effect": "whip-pan",
+      "frames": 60,
+      "intensity": 0.5,
+      "label": "휩 팬 전환",
+      "caption": "두 컷을 같은 방향의 빠른 이동으로 연결합니다."
+    },
+    {
+      "id": "scene-11",
+      "image": "art/scene-11.png",
+      "effect": "ken-burns",
+      "frames": 150,
+      "intensity": 0.5,
+      "label": "켄 번즈",
+      "caption": "시선이 머물 지점으로 천천히 다가갑니다."
+    }
+  ]
+}
